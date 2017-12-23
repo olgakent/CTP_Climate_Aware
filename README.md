@@ -38,3 +38,6 @@ This application will require two user-types, the consumer and the content-creat
 As a consumer, I can select which diagnostic to view and toggle between two data modes so that my preferred visualization is projected. I can then create and post a comment so that my opinion is available for others to view.
 
 As a content-creator, I can monitor the comment board and delete inappropriate or spam comments so that the integrity of the project mission is preserved.
+
+## Video walkthrough
+(./demo.gif)
