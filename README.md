@@ -40,4 +40,4 @@ As a consumer, I can select which diagnostic to view and toggle between two data
 As a content-creator, I can monitor the comment board and delete inappropriate or spam comments so that the integrity of the project mission is preserved.
 
 ## Video walkthrough
-(./demo.gif)
+<img src="./ClimateAwareDemo.gif" width=100% />
